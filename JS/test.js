@@ -10,4 +10,6 @@ let episodeTime = 45;
 
 console.log(episodeTime);
 
-commercialTime
+let commercialTime = 5;
+
+console.log(commercialTime);
