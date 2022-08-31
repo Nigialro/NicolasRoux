@@ -13,3 +13,7 @@ console.log(episodeTime);
 let commercialTime = 5;
 
 console.log(commercialTime);
+
+let totalShowTime = (episodeTime - commercialTime) * numberOfEpisodes * numberOfSeasons;
+
+console.log(totalShowTime);
